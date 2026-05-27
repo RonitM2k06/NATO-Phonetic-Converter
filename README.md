@@ -28,7 +28,6 @@ A Java-based NATO Phonetic Encryption & Decryption System that converts normal t
 - Object-Oriented Programming
 
 ---
-
 # Project Structure
 
 ```plaintext
@@ -39,3 +38,18 @@ NATO-Phonetic-Converter/
 ├── output.txt
 ├── README.md
 └── .gitignore
+
+```
+---
+
+# Author
+
+Ronit Mongia  
+B.Tech Computer Science Engineering Student  
+AI • Intelligent Systems • Motorsport Technology
+
+---
+
+# License
+
+This project is open-source and available under the MIT License.
